@@ -1,5 +1,5 @@
 
-# Box of Templates
+# Box of Scraps
 
 These are the templates I made **for myself** but can be extended depending on your requirements and use-case. 
 
